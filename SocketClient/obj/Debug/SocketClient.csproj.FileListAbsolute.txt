@@ -1,0 +1,10 @@
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\bin\Debug\SocketClient.exe.config
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\bin\Debug\SocketClient.exe
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\bin\Debug\SocketClient.pdb
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.ClientForm.resources
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.Properties.Resources.resources
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.csproj.GenerateResource.cache
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.csproj.CoreCompileInputs.cache
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.exe
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.pdb
+E:\学校\网课\c#\Socket_Chatdemo\SocketClient\obj\Debug\SocketClient.csproj.AssemblyReference.cache

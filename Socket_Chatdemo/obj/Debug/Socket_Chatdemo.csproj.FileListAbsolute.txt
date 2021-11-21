@@ -1,0 +1,10 @@
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\bin\Debug\Socket_Chatdemo.exe.config
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\bin\Debug\Socket_Chatdemo.exe
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\bin\Debug\Socket_Chatdemo.pdb
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.csproj.AssemblyReference.cache
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.MainForm.resources
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.Properties.Resources.resources
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.csproj.GenerateResource.cache
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.csproj.CoreCompileInputs.cache
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.exe
+E:\学校\网课\c#\Socket_Chatdemo\Socket_Chatdemo\obj\Debug\Socket_Chatdemo.pdb
